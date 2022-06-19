@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongcheolpark/typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "dongcheolpark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongcheolpark/typescript/issues"
+  },
+  "homepage": "https://github.com/dongcheolpark/typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.1"
+  }
+}
